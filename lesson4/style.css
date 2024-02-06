@@ -39,7 +39,7 @@ h2 {
 }
 
 button {
-    background-color: #3fb594;
+    background-color: var(--bg);
     color: white;
     padding: 8px 12px;
     border-radius: 6px;
